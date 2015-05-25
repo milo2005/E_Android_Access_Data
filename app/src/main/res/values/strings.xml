@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AccessData</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_hint">Ingresa la información</string>
+    <string name="btn_text">Guardar</string>
+    <string name="title_activity_planetas">PlanetasActivity</string>
+    <string name="title_activity_add_planeta">AddPlanetaActivity</string>
+    <string name="planeta_btn_text">Agregar</string>
+    <string name="planeta_hint_nombr">Nombre</string>
+    <string name="planeta_hint_gravedad">Gravedad</string>
+    <string name="planeta_hint_pos">posicion</string>
+</resources>
